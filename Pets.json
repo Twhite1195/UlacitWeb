@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Purrsloud",
+      "species": "Cat",
+      "favFoods": ["wet food", "dry food", "<strong>any</strong> food"],
+      "birthYear": "2017",
+      "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+    },
+    {
+      "name": "Barksalot",
+      "species": "Dog",
+      "birthYear": "2008",
+      "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "name": "Meowsalot",
+      "species": "Cat",
+      "favFoods": ["tuna", "catnip", "celery"],
+      "birthYear": "2012",
+      "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    },
+    {
+        "name": "Adolf",
+        "species": "Dog",
+        "favFoods": ["Juice","Meat"],
+        "birthYear": "1889",
+        "photo":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg" 
+    },
+    {
+        "name": "Derpy",
+        "species": "Dog",
+        "favFoods": ["flip flops","grass"],
+        "birthYear": "2007",
+        "photo":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224329/Shih-Tzu-On-White-01.jpg" 
+    },
+    {
+        "name": "Brad Kitt",
+        "species": "Cat",
+        "favFoods": ["Dogs","Chicken","Tuna"],
+        "birthYear": "2003",
+        "photo": "https://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+    }
+  ]
