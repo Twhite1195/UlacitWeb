@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Brad Kitt",
+        "species": "Cat",
+        "favFoods": ["Dogs","Chicken","Tuna"],
+        "birthYear": "2003",
+        "photo": "https://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+    }
+]

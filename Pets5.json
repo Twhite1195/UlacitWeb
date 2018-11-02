@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Derpy",
+        "species": "Dog",
+        "favFoods": ["flip flops","grass"],
+        "birthYear": "2007",
+        "photo":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224329/Shih-Tzu-On-White-01.jpg" 
+    }
+]
